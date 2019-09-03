@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-08-29T03:50:48.841Z</updated>
+  <updated>2019-09-03T06:38:17.164Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello LBB</title>
+    <link href="http://yoursite.com/2019/09/03/hello-LBB/"/>
+    <id>http://yoursite.com/2019/09/03/hello-LBB/</id>
+    <published>2019-09-03T06:38:17.164Z</published>
+    <updated>2019-09-03T06:38:17.164Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to the blog. This is the blog address of <a href="https://lisongyang.club/" target="_blank" rel="noopener">LBB</a>! if you are OK, you can visit it. The visior is the guest.</p><h2 id="One"><a href="#One" class="headerlink" title="One"></a>One</h2><p>###Two</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ Three</span><br></pre></td></tr></table></figure><p>More info: <a href="https://lisongyang.club/2019/08/29/sudo/" target="_blank" rel="noopener">Fore</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to the blog. This is the blog address of &lt;a href=&quot;https://lisongyang.club/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;LBB&lt;/a&gt;! if you are OK
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
